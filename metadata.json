@@ -1,0 +1,6 @@
+{
+  "name": "UPSC ZONE AI",
+  "description": "An AI-powered preparation companion for serious UPSC and competitive-exam aspirants to practice, revise, analyze, and excel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
